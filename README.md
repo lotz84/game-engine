@@ -10,6 +10,7 @@ Game Engine
 * Cross Platform
     * [ ] iOS
     * [ ] Android
+    * [ ] Browser (WebGL)
     * [ ] Linux
     * [ ] Mac OSX
     * [ ] Windows
